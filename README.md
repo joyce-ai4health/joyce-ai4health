@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joyce Ebruphiyo Etata</h1>
 <h3 align="center">I am a phlebotomist who is very passionate about healthcare Date Science</h3>
 
-<p align="center"> <img src="data science logo" alt="data science" /> </p>
+<p align="center">
+  <img src="https://github.com/joyce-ai4health/your-repo/raw/main/data-science-logo.png" alt="data science" width="400" />
+</p>
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyce-ai4health&label=Profile%20views&color=0e75b6&style=flat" alt="joyce-ai4health" /> </p>
