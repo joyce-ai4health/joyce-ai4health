@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Joyce Ebruphiyo Etata</h1>
 <h3 align="center">I am a phlebotomist who is very passionate about healthcare Date Science</h3>
 
+<p align="center"> <img src="data science logo" alt="data science" /> </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyce-ai4health&label=Profile%20views&color=0e75b6&style=flat" alt="joyce-ai4health" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyce-ai4health" alt="joyce-ai4health" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🌱 I’m currently learning **IBM Data Science Foundations Specialization, Deep Learning for Healthcare Specialization**
 
-- 💬 Ask me about **Data science, Phlebotomy, Healthcare**
+- 💬 Ask me about **Data science, Python,Phlebotomy, Healthcare**
 
 - 📫 How to reach me **joycejamesetata@gmail.com**
 
@@ -28,6 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyce-ai4health&show_icons=true&locale=en" alt="joyce-ai4health" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyce-ai4health&" alt="joyce-ai4health" /></p>
+
 
 
 
