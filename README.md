@@ -2,8 +2,9 @@
 <h3 align="center">I am a phlebotomist who is very passionate about healthcare Date Science</h3>
 
 <p align="center">
-  <img src="https://github.com/joyce-ai4health/your-repo/raw/main/data-science-logo.png" alt="data science" width="400" />
+  <img src="https://github.com/joyce-ai4health/joyce-ai4health/raw/main/data-science-logo.png" alt="data science" width="400" />
 </p>
+
 
 
 
