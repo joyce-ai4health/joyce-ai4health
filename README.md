@@ -22,6 +22,7 @@
 - 💬 Ask me about **Data science, Python,Phlebotomy, Healthcare**
 
 - 📫 How to reach me **joycejamesetata@gmail.com**
+- 📫 How to reach me **08134529081**
 
 - ⚡ Fun fact **I love the healthcare space**
 
