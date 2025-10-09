@@ -22,7 +22,7 @@
 - 💬 Ask me about **Data science, Python,Phlebotomy, Healthcare**
 
 - 📫 How to reach me **joycejamesetata@gmail.com**
-  - 📫 WhatsApp me: [Click to chat](https://wa.me/2348134529081)
+  - 📫 WhatsApp me: [Click to chat](https://wa.me/234813452908)
 
 
 - ⚡ Fun fact **I love the healthcare space**
