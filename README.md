@@ -15,9 +15,9 @@
 
 
 
-- 🌱 I’m currently learning **IBM Data Science Foundations Specialization, Deep Learning for Healthcare Specialization**
+- 🌱 I’m currently a student of ** Data science and engineering. I am learning how to build interactive dashboards with power BI, Tableau, excel etc**
 
-- 💬 Ask me about **Data science, Python,Phlebotomy, Healthcare**
+- 💬 Ask me about **Data science, Python, NumPy, Pandas, power BI, interactive dashboards Phlebotomy, Healthcare**
 
 - 📫 How to reach me **joycejamesetata@gmail.com**
   - 📫 WhatsApp me: [Click to chat](https://wa.me/234813452908)
