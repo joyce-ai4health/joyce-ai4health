@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/joyce-ai4health/joyce-ai4health/main/GITHUB%20IMAGE.png"
        alt="Joyce in server room"
-       width="700"/>
+       width="900"/>
 </p>
 
 <p align="center">
