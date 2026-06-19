@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/joyce-ai4health/joyce-ai4health/raw/main/data-science-logo.png" alt="data science" width="700" 
+  <img src="https://github.com/joyce-ai4health/joyce-ai4health/raw/main/data-science-logo.png" alt="data science" width="900" 
 height="300"/>  
 </p>
 <p align="center">
