@@ -2,10 +2,7 @@
 <h3 align="center">I am a Medical Lab Tech & Phlebotomist who is very passionate about Healthcare Data Science</h3>
 
 
-<p align="center">
-  <img src="https://github.com/joyce-ai4health/joyce-ai4health/raw/main/data-science-logo.png" alt="data science" width="900" 
-height="300"/>  
-</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/joyce-ai4health/joyce-ai4health/main/j.png"
        alt="Joyce in server room"
