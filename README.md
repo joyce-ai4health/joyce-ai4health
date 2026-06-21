@@ -7,7 +7,7 @@
 height="300"/>  
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joyce-ai4health/joyce-ai4health/main/GITHUB%20IMAGE.png"
+  <img src="https://raw.githubusercontent.com/joyce-ai4health/joyce-ai4health/main/j.png"
        alt="Joyce in server room"
        width="900"
        
