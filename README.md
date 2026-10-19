@@ -1,7 +1,7 @@
 <h1> Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-<a href="https://github.com/joyce-ai4health?tab=followers"><img src="https://img.shields.io/github/followers/joyce-ai4health?label=Followers&logo=github&color=0e75b6&style=flat" alt="GitHub followers" /></a>
+[<a href="https://github.com/joyce-ai4health?tab=followers"><img src="https://img.shields.io/github/followers/joyce-ai4health?label=Followers&logo=github&color=0e75b6&style=flat" alt="GitHub followers" /></a>](https://img.shields.io/github/followers/joyce-ai4health?label=Followers&logo=github&color=0e75b6&style=flat&v=2)
 
 </p>
 <div size='20px'> Hi! My name is Joyce Ebruphiyo Etata. I am a Medical Lab Tech & Phlebotomist who is very passionate about Healthcare Data Science. Thank You for taking the time to view my GitHub Profile :smile:
