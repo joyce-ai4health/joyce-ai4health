@@ -1,7 +1,7 @@
 <h1> Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-[<a href="https://github.com/joyce-ai4health?tab=followers"><img src="https://img.shields.io/github/followers/joyce-ai4health?label=Followers&logo=github&color=0e75b6&style=flat" alt="GitHub followers" /></a>](https://img.shields.io/github/followers/joyce-ai4health?label=Followers&logo=github&color=0e75b6&style=flat&v=2)
+<a href="https://github.com/joyce-ai4health?tab=followers"><img src="https://img.shields.io/github/followers/joyce-ai4health?label=Followers&logo=github&color=0e75b6&style=flat" alt="GitHub followers" /></a>
 
 </p>
 <div size='20px'> Hi! My name is Joyce Ebruphiyo Etata. I am a Medical Lab Tech & Phlebotomist who is very passionate about Healthcare Data Science. Thank You for taking the time to view my GitHub Profile :smile:
@@ -22,6 +22,8 @@
 - 📫 WhatsApp me: [Click to chat](https://wa.me/234813452908)
 
 - ⚡ Fun fact: I love the healthcare space.
+
+<br clear="all" />
 
 <h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/joyce-ai4health?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'> </a>
